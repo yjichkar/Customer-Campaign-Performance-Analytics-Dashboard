@@ -1,5 +1,15 @@
 # Customer Campaign Performance Analytics Dashboard
+## 🛠 Tech Stack
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-FFB000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 ## Project Overview
 The Customer Campaign Performance Analytics Dashboard is an end-to-end business intelligence project developed using SQL, Python, and Power BI to analyze customer behavior, campaign effectiveness, and marketing performance.
 
